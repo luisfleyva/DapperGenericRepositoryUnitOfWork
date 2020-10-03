@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using DapperGenericUnitOfWorkAndRepository.Model;
+using DapperGenericRepositoryUnitOfWork;
+using DapperGenericRepositoryUnitOfWork.Model;
 
 namespace DapperGenericUnitOfWorkAndRepository.Console
 {
